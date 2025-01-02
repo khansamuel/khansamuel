@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Samuel a.k.a <a href="https://www.linkedin.com/in/samuel/">Tech Entrepreneur </a></font></h1>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Samuel a.k.a <a href="https://www.linkedin.com/in/samuel-oduor-ke/">Tech Entrepreneur </a></font></h1>
 <h3 align="center"><font face="Arial">I am a passionate Tech Enthusiast , with expertise in IoT, software engineering, and community building. He loves collaborating on innovative tech projects and mentoring the next generation of developers.</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
